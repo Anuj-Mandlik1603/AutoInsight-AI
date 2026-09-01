@@ -1,0 +1,31 @@
+Date,Product,Category,Region,Sales,Quantity,Profit,Discount
+2024-01-15,Laptop,Electronics,North,1200,2,300,10
+2024-01-18,Phone,Electronics,South,800,3,200,15
+2024-01-22,Desk,Furniture,East,450,1,120,5
+2024-02-05,Chair,Furniture,West,350,2,90,8
+2024-02-12,Tablet,Electronics,North,600,1,150,12
+2024-02-20,Monitor,Electronics,South,400,2,100,10
+2024-03-03,Sofa,Furniture,East,1500,1,400,5
+2024-03-10,Keyboard,Electronics,West,80,5,20,15
+2024-03-18,Mouse,Electronics,North,45,10,12,20
+2024-03-25,Lamp,Furniture,South,120,3,35,10
+2024-04-02,Headphones,Electronics,East,200,4,50,12
+2024-04-11,Bookshelf,Furniture,West,650,1,180,8
+2024-04-19,Webcam,Electronics,North,180,2,45,15
+2024-04-28,Printer,Electronics,South,550,1,140,10
+2024-05-07,Desk Organizer,Furniture,East,75,6,22,5
+2024-05-15,External Drive,Electronics,West,220,3,60,12
+2024-05-23,Office Chair,Furniture,North,480,2,130,8
+2024-05-30,Router,Electronics,South,160,2,40,15
+2024-06-08,Filing Cabinet,Furniture,East,890,1,250,5
+2024-06-16,Speakers,Electronics,West,140,3,35,18
+2024-06-24,Standing Desk,Furniture,North,1100,1,310,8
+2024-07-03,USB Hub,Electronics,South,55,8,15,20
+2024-07-11,Conference Table,Furniture,East,2200,1,600,5
+2024-07-19,Microphone,Electronics,West,175,2,48,12
+2024-07-28,Whiteboard,Furniture,North,320,2,90,10
+2024-08-05,Docking Station,Electronics,South,280,2,75,15
+2024-08-14,Ergonomic Chair,Furniture,East,720,1,200,8
+2024-08-22,Smart TV,Electronics,West,1800,1,480,10
+2024-08-30,Storage Cabinet,Furniture,North,540,1,155,12
+2024-09-07,Gaming Headset,Electronics,South,220,3,58,15
